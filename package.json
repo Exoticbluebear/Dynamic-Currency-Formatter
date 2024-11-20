@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-currency-formatter",
+  "version": "1.1.0",
+  "description": "realtime dynamic \"Real-time Currency Converter\" is an intuitive npm package designed to simplify the formatting and conversion of currency values in real-time for both inputs and static outputs. Whether you're building financial applications, e-commerce platforms, or any project requiring accurate and responsive currency handling, this package provides seamless solutions. It supports dynamic input transformations, locale-specific formatting, and custom currency options, ensuring consistent and user-friendly monetary representations. Empower your applications with flexible and reliable currency formatting that adapts to your users' needs in real time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exoticbluebear/Real-time-Currency-Converter.git"
+  },
+  "keywords": [
+    "Currency"
+  ],
+  "author": "Kushan Amugoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exoticbluebear/Real-time-Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/Exoticbluebear/Real-time-Currency-Converter#readme"
+}
